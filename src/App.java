@@ -13,7 +13,7 @@ public class App {
 
         condorito.setNombre("condorito");
         condorito.setEdad(50);
-        condorito.s
+        
         
         avatar.setName("Avatar El Camino Del Agua");
         System.out.println("El Nombre de la pelicula es ");
